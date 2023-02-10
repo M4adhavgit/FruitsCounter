@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.card {
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blanchedalmond;
+}
+.img {
+  height: 80px;
+  width: 80px;
+}
+.btn {
+  background-color: aqua;
+  color: white;
+  outline: none;
+  cursor: pointer;
+}
+.bana {
+  display: flex;
+  flex-direction: column;
+}
